@@ -1,0 +1,56 @@
+.logo:hover {
+    width: 60px;
+    transition: all 0.9s ease-out;
+}
+
+.nav-links-list li a:hover {
+    font-size: 24px;
+    transition: all 0.5s ease-out;
+}
+
+h1:hover{
+    margin-top: 60px;
+    transition: all 0.9s ease-out;
+}
+
+.title button:hover,
+.buttons button:hover,
+.cab-info .cab-cards button:hover,
+.feature button:hover,
+.ivory button:hover,
+.natural button:hover,
+.black button:hover,
+.pink button:hover,
+.footer-wrapper button:hover {
+    background-color: #FFFFFF;
+    color: #2B5165;
+    border: 2px solid #2B5165;
+    transition: all 0.5s ease-out;
+}
+
+.tosca button:hover {
+    background-color: #82B3B7;
+}
+
+.concept-info p:hover,
+.cab-info .cab-ingr p:hover,
+.cab-info .cab-size p:hover,
+.feature-list li:hover {
+    font-size: 24px;
+    font-weight: 400;
+    transition: all 0.9s ease-out;
+}
+
+.min-title h3:hover {
+    color: #DBE4B8;
+    transition: all 0.9s ease-out;
+}
+
+.ivory img:hover,
+.natural img:hover,
+.tosca img:hover,
+.black img:hover,
+.pink img:hover {
+    margin-bottom: 40px;
+    transition: all 0.3s ease-out;
+}
